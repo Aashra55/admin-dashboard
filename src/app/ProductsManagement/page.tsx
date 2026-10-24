@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import AdminLayout from "../components/AdminLayout";
-import { FiPlus, FiTrash2, FiSearch, FiBox, FiDollarSign, FiTag, FiCheck, FiDownload } from "react-icons/fi";
+import { FiPlus, FiTrash2, FiSearch, FiBox, FiCheck, FiDownload } from "react-icons/fi";
 
 interface Product {
   id: string;

@@ -1,7 +1,7 @@
 'use client';
 import { useState } from "react";
 import AdminLayout from "../components/AdminLayout";
-import { FiTrendingUp, FiUsers, FiBox, FiDollarSign, FiPlus, FiArrowUpRight, FiActivity, FiDownload, FiClock, FiShield } from "react-icons/fi";
+import { FiTrendingUp, FiUsers, FiBox, FiDollarSign, FiArrowUpRight, FiActivity, FiClock, FiShield } from "react-icons/fi";
 import Link from "next/link";
 
 export default function Dashboard() {
